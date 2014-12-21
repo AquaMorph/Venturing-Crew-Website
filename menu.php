@@ -1,3 +1,4 @@
+<div class="headerspace"></div>
 <div class="header">
     <div id="menu">
         <ul>
