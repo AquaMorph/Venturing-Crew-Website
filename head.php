@@ -5,6 +5,7 @@
     <link rel="shortcut icon" href="favicon.png" />
     <link rel="stylesheet" href="style.css">
     <script src="js/menu.js"></script>
+    <script type="text/javascript" src="js/instafeed.min.js"></script>
     
 <?php    
     function title($text) {

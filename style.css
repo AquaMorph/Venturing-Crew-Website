@@ -239,3 +239,7 @@ body {
 	margin: 0 auto 0 auto;
 	padding:0 .6em 0 .6em;
 }
+/* Instagram */
+#instafeed img {
+    width: 50%;
+}

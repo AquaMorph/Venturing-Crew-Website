@@ -8,8 +8,8 @@
         <ul>
             <a href="index.php"><img src="webmenu.png"></a>
             <li><a href="index.php">Home</a></li>
-            <li><a href="#">FAQ</a></li>
-            <li><a href="#">Gallery</a></li>
+            <li><a href="faq.php">FAQ</a></li>
+            <li><a href="gallery.php">Gallery</a></li>
             <li><a href="#">Calendar</a></li>
             <li><a href="#">Contact Us</a></li>
         </ul>
