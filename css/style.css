@@ -2,6 +2,7 @@
 Crew 208 Website
 Green: #006B3F
 Yellow: #FCD116
+Gray: #F5F5F5
 */
 
 /* Body */
@@ -157,6 +158,22 @@ body {
 
 
 /* Feature Image */
+.blur {
+    -webkit-filter: blur(.2em);
+    -moz-filter: blur(.2em);
+    -o-filter: blur(.2em);
+    -ms-filter: blur(.2em);
+    filter: blur(.2em);
+    z-index: -2;
+}
+.noblur {
+    -webkit-filter: blur(.05em);
+    -moz-filter: blur(.05em);
+    -o-filter: blur(.05em);
+    -ms-filter: blur(.05em);
+    filter: blur(.05em);
+    z-index: -3;
+}
 .feature-container {
     height: 12em;
     width: 100%;
@@ -171,24 +188,9 @@ body {
 }
 .featured-image {
     position: absolute;
+    width: 100%;
+    height: 12em;
     background:linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.3));
-    -webkit-filter: blur(.2em);
-    -moz-filter: blur(.2em);
-    -o-filter: blur(.2em);
-    -ms-filter: blur(.2em);
-    filter: blur(.2em);
-    width: 100%;
-    height: 12em;
-    z-index: -1;
-}
-.featured-image2 {
-    position: absolute;
-    background:linear-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.3));
-    width: 100%;
-    height: 12em;
-    width: 100%;
-    height: 12em;
-    z-index: -2;
 }
 .feature-img, 
 .feature-text {

@@ -21,8 +21,8 @@ function image($img,$text) {
 echo "<div class='feature-container'>
         <div class='feature-img'>
             <div class='feature'>
-                <div style='background:url($img) center/cover' class='featured-image'></div>
-                <div style='background:url($img) center/cover' class='featured-image2'></div>
+                <div style='background:url($img) center/cover' class='featured-image blur'></div>
+                <div style='background:url($img) center/cover' class='featured-image noblur'></div>
             </div>
         </div>
         <div class='feature-text'><h1>$text</h1></div>
