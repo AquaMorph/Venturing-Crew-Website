@@ -10,8 +10,8 @@
             <li><a href="index.php">Home</a></li>
             <li><a href="faq.php">FAQ</a></li>
             <li><a href="gallery.php">Gallery</a></li>
-            <li><a href="#">Calendar</a></li>
-            <li><a href="#">Contact Us</a></li>
+            <li><a href="calendar.php">Calendar</a></li>
+            <li><a href="contact.php">Contact Us</a></li>
         </ul>
     </div>
 </div>
