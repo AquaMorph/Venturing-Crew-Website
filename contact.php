@@ -1,4 +1,4 @@
-<?php include 'top.php'; top("Contact Us","img/IMG_1121.JPG") ?>
+<?php include 'php/top.php'; top("Contact Us","img/IMG_1121.JPG") ?>
 <form method="post" action="process.php">
         
     <label>Name</label>
@@ -16,4 +16,4 @@
     <input id="submit" name="submit" type="submit" value="Submit">
         
 </form>
-<?php include 'bottom.php'; ?>
+<?php include 'php/bottom.php'; ?>

@@ -6,7 +6,7 @@
     </div>
     <div id="menu">
         <ul>
-            <a href="index.php"><img src="webmenu.png"></a>
+            <a href="index.php"><img src="img/webmenu.png"></a>
             <li><a href="index.php">Home</a></li>
             <li><a href="faq.php">FAQ</a></li>
             <li><a href="gallery.php">Gallery</a></li>

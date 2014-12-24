@@ -260,3 +260,8 @@ textarea {
 #instafeed img {
     width: 50%;
 }
+@media all and (max-width: 30em) {
+    #instafeed img {
+    width: 100%;
+}
+}

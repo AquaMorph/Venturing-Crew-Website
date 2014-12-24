@@ -1,4 +1,4 @@
-<?php include 'top.php'; top("Gallery","img/IMG_1588.JPG") ?>
+<?php include 'php/top.php'; top("Gallery","img/IMG_1588.JPG") ?>
 <script type="text/javascript">
     var userFeed = new Instafeed({
         get: 'user',
@@ -10,4 +10,4 @@
 </script>
 <div id="instafeed"></div> 
 
-<?php include 'bottom.php'; ?>
+<?php include 'php/bottom.php'; ?>
