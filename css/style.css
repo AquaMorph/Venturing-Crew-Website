@@ -161,6 +161,9 @@ body {
 .content a {
     color: #006B3F;
 }
+.content p {
+    font-size: 1.2em;
+}
 .wrapper {
     top: 4em;
 	padding-top:0em;
